@@ -1,5 +1,5 @@
 ﻿# Drowsiness-Detector
-drowsiness detection is a project built using Dlib and OpenCV with Python as a backend language.
+ Drowsiness-Detector is a project built using Dlib and OpenCV with Python as a backend language.
 Which predicts the current status of your face among three cases:
 1-Sleeepy
 2-Drowsy
